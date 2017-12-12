@@ -324,7 +324,7 @@ body {
   text-decoration: none;
 }
 #menu ul {
-  background: rgba(0, 0, 0, 0.3);
+  background: rgba(0, 0, 0, );
 }
 #menu > li > a {
   border-top: 1px solid rgba(0, 0, 0, 0.1);
@@ -2318,7 +2318,7 @@ div.uploader {
   background-color: #639e0d !important;
 }
 .bg-blue {
-  background-color: #00CAF2;
+  background-color: #0e0e0e;
   color: #fff !important;
 }
 .bg-blue.dker,

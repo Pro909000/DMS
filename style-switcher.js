@@ -131,7 +131,7 @@ StyleSwitcher.prototype.build = function () {
     }).on(Metis.buttonPressedEvent, function (e) {
         e.preventDefault();
         switchDiv.toggleClass('open');
-        $(this).find('i').toggleClass('fa-spin');
+        $(this).find('i').toggleClass('');
     }).append(h5Ai);
     var h5 = $('<h5 />').html('Style Switcher').append(h5A);
     var colorList = $('<ul />').addClass('options').attr('data-type', 'colors');

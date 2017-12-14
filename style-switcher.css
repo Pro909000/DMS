@@ -7,8 +7,8 @@
 .style-switcher {
   background-color: #222;
   position: fixed;
-  right: -312px;
-  top: -10px;
+  right: -212px;
+  top: 0px;
   width: 212px;
   z-index: 999;
   transition: all 1s;

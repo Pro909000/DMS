@@ -53,7 +53,8 @@ body {
 #top:after,
 .head:after,
 .Footer:after {
-  clear: both;
+  content: " ";
+  display: table;
 }
 .Wrap,
 #wrap {
